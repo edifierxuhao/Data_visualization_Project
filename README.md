@@ -11,7 +11,7 @@ credit information, prosper rating and score, borrower income and de) and
 Post-loan information (such as loan status, principle outstanding) of 
 approximately 112,000 Prosper loans. The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554486256021000),
 with feature documentation available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
-
+During my analysis, I also check the [Prosper website](https://www.prosper.com/)
 
 
 ## Summary of Findings
